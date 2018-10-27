@@ -22,7 +22,7 @@ The system archithcture enables abstraction of these core components.
 For example, the design supports any database type chosen be the system admin. Another example is that it is possible to add emergency forces.
 
 
-**Design-Pattern included
+**Design-Patterns included
 --------------------------
 -Passkey
 -Singleton
